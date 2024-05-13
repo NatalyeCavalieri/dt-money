@@ -1,20 +1,60 @@
 {
-    "transactions": [
-        {
-            "id": 1,
-            "description": "Desenvolvimento de site",
-            "type": "income",
-            "category": "venda",
-            "price": 14000,
-            "createdAt": "2024-05-07T05:33:19.437Z"
-        },
-        {
-            "id": 2,
-            "description": "Hamburguer",
-            "type": "outcome",
-            "category": "alimentação",
-            "price": 60,
-            "createdAt": "2024-05-07T05:50:19.437Z"
-        }
-    ]
+  "transactions": [
+    {
+      "id": "1",
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "venda",
+      "price": 14000,
+      "createdAt": "2024-05-07T05:33:19.437Z"
+    },
+    {
+      "id": "2",
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "alimentação",
+      "price": 60,
+      "createdAt": "2024-05-07T05:50:19.437Z"
+    },
+    {
+      "id": "6b4f",
+      "description": "Desenvolvimento de App",
+      "category": "Venda",
+      "price": 3000,
+      "type": "income",
+      "createdAt": "2024-05-13T16:41:55.634Z"
+    },
+    {
+      "id": "b473",
+      "description": "Desenvolvimento de App",
+      "category": "Venda",
+      "price": 3000,
+      "type": "income",
+      "createdAt": "2024-05-13T16:42:00.598Z"
+    },
+    {
+      "id": "9a42",
+      "description": "Desenvolvimento de App",
+      "category": "Venda",
+      "price": 3000,
+      "type": "income",
+      "createdAt": "2024-05-13T16:42:02.745Z"
+    },
+    {
+      "id": "dc4d",
+      "description": "Desenvolvimento de App",
+      "category": "Venda",
+      "price": 3000,
+      "type": "income",
+      "createdAt": "2024-05-13T16:42:04.126Z"
+    },
+    {
+      "description": "Iorgute de banana",
+      "category": "Alimentação",
+      "price": 4,
+      "type": "outcome",
+      "createdAt": "2024-05-13T17:04:32.462Z",
+      "id": "0j07_sD"
+    }
+  ]
 }
